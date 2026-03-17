@@ -68,4 +68,4 @@ This dashboard helps in identifying the root causes of customer churn and provid
 ---
 
 ### 📸 Dashboard Preview
-dashboard.png
+![Dashboard](dashboard.png)
